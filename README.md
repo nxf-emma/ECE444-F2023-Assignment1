@@ -21,3 +21,9 @@ Resolved merge conflict on GitHub
 <img width="916" alt="Screenshot 2023-09-10 at 8 24 42 PM" src="https://github.com/nxf-emma/ECE444-F2023-Assignment1/assets/84111551/e23e72e8-512c-44c0-bed1-13162d7f6f47">
 PR merged successfully
 <img width="937" alt="8" src="https://github.com/nxf-emma/ECE444-F2023-Assignment1/assets/84111551/4c3e14a8-c1ad-4017-b8c6-73ed74b4e293">
+
+## Activity 4: 
+Adding two util function and their unit tests
+<img width="1129" alt="9" src="https://github.com/nxf-emma/ECE444-F2023-Assignment1/assets/84111551/dd413ced-67b1-4b07-910d-af4ce82345ba">
+<img width="1016" alt="10" src="https://github.com/nxf-emma/ECE444-F2023-Assignment1/assets/84111551/3978e71c-c9a8-40f1-b9bf-c170a7592503">
+
